@@ -13,3 +13,9 @@ a+x
 math <- a + x
 
 print(math)
+
+
+vec <- c(1, 2, 3)
+
+print(vec)
+
